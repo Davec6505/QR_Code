@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\davec\\GIT\\QR_Code\\QR_Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B09DDF-7962-4396-8F57-25B4D4DA8687}|QR_Code\\QR_Code.csproj|c:\\users\\davec\\git\\qr_code\\qr_code\\qr_code\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B09DDF-7962-4396-8F57-25B4D4DA8687}|QR_Code\\QR_Code.csproj|solutionrelative:qr_code\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B09DDF-7962-4396-8F57-25B4D4DA8687}|QR_Code\\QR_Code.csproj|c:\\users\\davec\\git\\qr_code\\qr_code\\qr_code\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D4B09DDF-7962-4396-8F57-25B4D4DA8687}|QR_Code\\QR_Code.csproj|solutionrelative:qr_code\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B09DDF-7962-4396-8F57-25B4D4DA8687}|QR_Code\\QR_Code.csproj|c:\\users\\davec\\git\\qr_code\\qr_code\\qr_code\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B09DDF-7962-4396-8F57-25B4D4DA8687}|QR_Code\\QR_Code.csproj|solutionrelative:qr_code\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 404,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\davec\\GIT\\QR_Code\\QR_Code\\QR_Code\\App.xaml.cs",
+              "RelativeDocumentMoniker": "QR_Code\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\davec\\GIT\\QR_Code\\QR_Code\\QR_Code\\App.xaml.cs",
+              "RelativeToolTip": "QR_Code\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T22:13:15.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\davec\\GIT\\QR_Code\\QR_Code\\QR_Code\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "QR_Code\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\davec\\GIT\\QR_Code\\QR_Code\\QR_Code\\MainWindow.xaml",
+              "RelativeToolTip": "QR_Code\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-24T22:02:47.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\davec\\GIT\\QR_Code\\QR_Code\\QR_Code\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QR_Code\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\davec\\GIT\\QR_Code\\QR_Code\\QR_Code\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "QR_Code\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAQwE8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T22:02:44.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

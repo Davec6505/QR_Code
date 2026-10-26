@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "QRCoder/1.8.1": {
+        "runtime": {
+          "lib/net6.0/QRCoder.dll": {
+            "assemblyVersion": "1.8.1.0",
+            "fileVersion": "1.8.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QRCoder/1.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aGfRFpU/IPexAtEOEXCNxC3fMCAqgn6kqALRvXt6LxVAW0VolSDGHiyrY+o2CJgTITOsMpsrsDi7svMJaJ9Vfg==",
+      "path": "qrcoder/1.8.1",
+      "hashPath": "qrcoder.1.8.1.nupkg.sha512"
+    }
+  }
+}

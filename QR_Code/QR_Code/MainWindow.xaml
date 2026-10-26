@@ -1,0 +1,37 @@
+﻿<Window x:Class="QR_Code.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QR_Code"
+        mc:Ignorable="d"
+        Title="QR Code Builder" Height="450" Width="450">
+    <Grid Margin="16">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            
+        </Grid.RowDefinitions>
+        
+        <TextBlock Text="URL" FontSize="16" Margin="0,0,0,8"/>
+        <TextBox x:Name="UrlTextBox" Grid.Row="1" FontSize="16" Text="HTTPS://led-o.ddns.net" Margin="0,0,0,16"/>
+        
+        
+        <Border Grid.Row="2" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Center" VerticalAlignment="Center" Width="250" Height="250" Margin="0,16,0,16">
+            <Image x:Name="QrCodeImage" Stretch="Uniform"/>
+        </Border>
+        
+            <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                    <Button Grid.Column="0" Content="Generate QR Code" FontSize="14" Padding="8" Click="QR_Button_Click"/>
+                    <Button Grid.Column="1" Content="Clear" FontSize="14" Padding="8" Click="Clear_Button_Click"/>
+                    <Button Grid.Column="2" Content="Save" FontSize="14" Padding="8" Click="Save_Button_Click"/>
+            </Grid>
+    </Grid>
+</Window>

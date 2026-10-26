@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UAkJpQ/lTNc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\davec\\GIT\\QR_Code\\QR_Code\\QR_Code\\QR_Code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\davec\\.nuget\\packages\\qrcoder\\1.8.1\\qrcoder.1.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}
